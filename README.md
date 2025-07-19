@@ -31,4 +31,6 @@ Just raw HTML, CSS, and JS.
 
 ---
 
- *Made with curiosity and code by Ragini Shaw.*
+## Contact
+
+Email: [raginishaw0607@gmail.com](mailto:raginishaw0607@gmail.com)
